@@ -1,3 +1,20 @@
 {
-	"author": "Amrit Srivastava"
+  "author": "Amrit Srivastava",
+  "name": "learn_node1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amritsrivastava/learn_node1.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amritsrivastava/learn_node1/issues"
+  },
+  "homepage": "https://github.com/amritsrivastava/learn_node1#readme",
+  "description": ""
 }
